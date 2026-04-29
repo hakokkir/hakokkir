@@ -53,5 +53,4 @@ ships into a production Next.js + Sanity stack on Cloudflare Pages.
 
 ## Reach me
 
-📫 tvn-ai@turkeyvideonetwork.com
 📷 [@hakabisan](https://instagram.com/hakabisan)
